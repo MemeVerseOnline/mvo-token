@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Memeverse.online
 
 Contains smart
  contract code for MVO Token
